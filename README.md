@@ -4,7 +4,7 @@
 - 🌱 I’m currently involved in doing projects related to Web development and designing.
 - 💞️ I’m looking to collaborate on 
 - 📫 Further details -> Contact me @veenakrishnan16062001@gmail.com
-     LinkedIn profile -> https://www.linkedin.com/in/veena-krishnan-b48a39196/
+- LinkedIn profile -> https://www.linkedin.com/in/veena-krishnan-b48a39196/
 
 <!---
 VeenaKrishnan17/VeenaKrishnan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

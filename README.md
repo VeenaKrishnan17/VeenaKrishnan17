@@ -1,4 +1,4 @@
-- Heyy, I’m @VeenaKrishnan17
+- Heyy, I’m Veena Krishnan
 - I'm an enthusiastic program developer eager to contribute to team success through hard work. Clear understanding of problems and curious in solving them. 
      Motivated to learn, grow and excel in programming. Specialized in C,C++,HTML,CSS,Js.
 - I’m currently involved in doing projects related to Web development and designing.
